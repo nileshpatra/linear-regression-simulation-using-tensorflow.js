@@ -20,7 +20,7 @@ Steps :<br>
   - used adam optimizer and passed the predict fuunction to minimize loss
   - the model is trained using the neural network with tfjs
   - plotted a line with the given slope and bias , reflected it in the canvas
-  - also referred www.codingtrain.com to build this
+  - also referred www.thecodingtrain.com to build this
   
 ---HERE IS HOW THE MODEL WORKS IN ACTION--:<br><br><br>
   <img src = "https://github.com/nileshpatra/linear-regression-simulation-using-tensorflow.js/blob/master/Screenshot_2018-12-23%20Screenshot.png">
