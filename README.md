@@ -1,5 +1,5 @@
 # SIMULATION USING TF.JS:
-
+[![Build Status](https://travis-ci.org/nileshpatra/linear-regression-simulation-using-tensorflow.js.svg?branch=master)](https://travis-ci.org/nileshpatra/linear-regression-simulation-using-tensorflow.js)
 - This repository is supposed to train the model and plot the best fit line using tensorflow 
 Utilities :
   - p5.js
